@@ -1,17 +1,12 @@
 #!/bin/sh
 
-O_CLI=jgit
-O_JAR=jgit.jar
-O_SRC=jgit_src.zip
-O_DOC=jgit_docs.zip
-
 PLUGINS="
 	org.eclipse.jgit
 	org.eclipse.jgit.pgm
 "
 JARS="
-	org.eclipse.jgit/lib/jsch-0.1.37.jar
-	org.eclipse.jgit.pgm/lib/args4j-2.0.9.jar
+	org.eclipse.jgit/lib/jsch-0.1.38.jar
+	org.eclipse.jgit.pgm/lib/args4j-2.0.12.jar
 "
 
 PSEP=":"

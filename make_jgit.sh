@@ -14,7 +14,6 @@ JARS="
 	org.eclipse.jgit.pgm/lib/args4j-2.0.9.jar
 "
 
-PSEP=":"
 T=".temp$$.$O_CLI"
 T_MF="$T.MF"
 R=`pwd`

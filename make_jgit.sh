@@ -10,8 +10,8 @@ PLUGINS="
 	org.eclipse.jgit.pgm
 "
 JARS="
-	org.eclipse.jgit/lib/jsch-0.1.37.jar
-	org.eclipse.jgit.pgm/lib/args4j-2.0.9.jar
+	org.eclipse.jgit/lib/jsch-0.1.38.jar
+	org.eclipse.jgit.pgm/lib/args4j-2.0.12.jar
 "
 
 T=".temp$$.$O_CLI"

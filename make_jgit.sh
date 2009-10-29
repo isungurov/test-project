@@ -1,3 +1,3 @@
 #!/bin/sh
-echo Hekko!
+echo Hekko!?
 sleep 10

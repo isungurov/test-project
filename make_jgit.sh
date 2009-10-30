@@ -1,4 +1,4 @@
 #!/bin/sh
 echo Aghtung!!! 1>&2
-sleep 10
+sleep 8
 exit 1

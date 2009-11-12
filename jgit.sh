@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#...........
 if [ "@@use_self@@" = "1" ]
 then
 	this_script=`which "$0" 2>/dev/null`

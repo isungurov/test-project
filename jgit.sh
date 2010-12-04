@@ -50,3 +50,4 @@ fi
 
 exec "$java" $java_args org.eclipse.jgit.pgm.Main "$@"
 exit 1
+6

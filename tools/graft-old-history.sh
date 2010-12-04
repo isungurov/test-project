@@ -26,3 +26,4 @@ else
   echo $POST $PRE >>"$GIT_DIR/info/grafts" &&
   echo 'Graft installed.' >&2
 fi
+2
